@@ -21,3 +21,8 @@ Soil Metrics is a mobile application developed to recommend suitable crops and f
 - AI-based recommendations
 - Weather API integration
 - IoT sensor connectivity
+
+## Screenshots
+![Home Screen](soilmetrics home.jpeg)
+![Input Screen](soilmetrics input.jpeg)
+![Result Screen](soilmetrics result.jpeg)
